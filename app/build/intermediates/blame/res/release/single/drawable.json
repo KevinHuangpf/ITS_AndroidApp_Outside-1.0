@@ -1,0 +1,2534 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_station.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_station.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\images3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\downarrow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\divider.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\divider.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\friend_info_mail.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\friend_info_mail.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\shape_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_2.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_ride.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_ride.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir15.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir15.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir6.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir6.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir11.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir11.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\friend_info_mail.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\friend_info_mail.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_station.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir_station.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_default_small.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres7.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\imgres7.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_bar_blue.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_bar_blue.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\timg2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_right_blue.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\arrow_right_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\team.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\team.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\message1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\team.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\team.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cache.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\cache.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_drive_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\route_drive_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\into_icon.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\into_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir2.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\man.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flow1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\flow1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_ride.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_ride.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_bar_blue.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\search_bar_blue.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flow1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\flow1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir6.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir6.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir11.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir11.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\point4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input_half.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_input_half.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_car.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_car.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rightarrow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_icon_white.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\search_icon_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\image_share.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\image_share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir11.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir11.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\groundoverlay.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\groundoverlay.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_plate_global.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_plate_global.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir14.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir14.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\man.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir15.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir15.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images10.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images10.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\message1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_station.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_station.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\about1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_drive_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_drive_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_ride.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_ride.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start_uri.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\start_uri.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_normal_disable.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flow1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\flow1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_walk_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\badge_sa.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\badge_sa.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_6.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_6.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\left_back.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\left_back.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_selected.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_selected.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input_half.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\search_input_half.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres7.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres7.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_other_highlight.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\marker_other_highlight.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\point4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\whiteborder.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\whiteborder.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_route_pre.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_route_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_bottom_bar.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\bg_bottom_bar.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_drive_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\route_drive_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\location_marker.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\location_marker.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir2.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\man.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\point4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_5.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_5.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_5.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_5.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_poisearch.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\icon_poisearch.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_drive_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_drive_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_icon_white.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_icon_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\groundoverlay.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\groundoverlay.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir6.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir6.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\title_background.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\title_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg1.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\timg1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_bg.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\border_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_through.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_through.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\whiteborder.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\whiteborder.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir15.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir15.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\direct_mapsearch.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\direct_mapsearch.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir_end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres8.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres8.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_default.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_default.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_poisearch.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\icon_poisearch.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialogue_icon.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dialogue_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_selected.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_selected.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_transit_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir7.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir7.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\user.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_driving_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_bar_blue.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_bar_blue.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_quick_register_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scrollbar_handle_vertical.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_driving_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres7.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres7.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bus.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_car.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_car.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_quick_register.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir2.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\image_share.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\image_share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_6.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_6.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\friend_info_mail.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\friend_info_mail.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debug1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\debug1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir10.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir10.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cache1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\cache1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\title_background.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\title_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_8.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_8.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\team.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\team.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_poi_search_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_poi_search_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\timg2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rightarrow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_man.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_info_bubble.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\prev_disable.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\prev_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cache.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\cache.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\user.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\location_marker.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\location_marker.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres9.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres9.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres4.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres4.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres8.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\imgres8.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\badge_sa.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\badge_sa.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_transit_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\groundoverlay.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\groundoverlay.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debug.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\debug.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\downarrow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start_uri.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\start_uri.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_drive_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_drive_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir14.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir14.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir5.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir5.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir8.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir8.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_other_highlight.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\marker_other_highlight.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navi_map_gps_locked.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\navi_map_gps_locked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\title_background.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\title_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\user.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\title_background.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\title_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\prev_disable.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\prev_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_bottom_bar.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\bg_bottom_bar.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bus.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bus.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_map_poi.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_map_poi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navi_map_gps_locked.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\navi_map_gps_locked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir6.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir6.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir7.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir7.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir5.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir5.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\location_marker.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\location_marker.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir15.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir15.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_bottom_bar.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\bg_bottom_bar.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_route_pre.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_route_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\left_back.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\left_back.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_bus_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_bus_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\shape_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_bus_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_bus_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialogue_icon.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dialogue_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_car.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\amap_car.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_transit.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\about1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_10.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_10.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_walk_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\point4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_default.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_default.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_7.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_7.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\offlinearrow_tab2_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\offlinearrow_tab2_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_walk_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\route_walk_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_walk_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_walk_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir5.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir5.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flow1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\flow1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debug.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\debug.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cache1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\cache1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_map_poi.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_map_poi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_line.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\shape_line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\divider.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\divider.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_disable.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\next_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\timg2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_map_poi.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_map_poi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_bus_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_bus_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\text_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir14.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir14.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\direct_mapsearch_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\direct_mapsearch_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_walk_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_walk_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\text_search_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images5.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images5.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\prev_disable.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\prev_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres9.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres9.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start_uri.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\start_uri.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\about1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\car.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debug1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\debug1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_selected.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\text_search_selected.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images10.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images10.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_bus.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\amap_bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\badge_wa.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\badge_wa.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\about1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_walk_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_walk_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input_half.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_input_half.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir12.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir12.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_right_blue.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\arrow_right_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_route_pre.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_route_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir12.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir12.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_input.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\up.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cache.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\cache.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\direct_mapsearch.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\direct_mapsearch.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres7.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres7.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\friend_info_mail.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\friend_info_mail.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_through.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_through.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_2.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_8.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_8.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\whiteborder.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\whiteborder.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_right_blue.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\arrow_right_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\share1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_bar_blue.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_bar_blue.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images5.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\images5.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rightarrow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\image_share.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\image_share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir13.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir13.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir7.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir7.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\message1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\badge_wa.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\badge_wa.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir10.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir10.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\share1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\car.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide3.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\guide3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_bus_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\route_bus_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\offlinearrow_tab2_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\offlinearrow_tab2_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_bg.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\border_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rightarrow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_man.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\up.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_car.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_car.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\prev.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\flow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_show.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_6.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_6.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images6.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\images6.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_route_pre.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_route_pre.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\car.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_bus_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_bus_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres9.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\imgres9.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_walk.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_bg.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\border_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir13.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir13.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_10.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_10.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scrollbar_handle_vertical.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\image_share.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\image_share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gps_point.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\gps_point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cache1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\cache1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\message1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_poi_search_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_poi_search_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_show_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images6.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images6.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debug.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\debug.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\share1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\up.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_bg.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\border_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_route_next.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_route_next.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\prev.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\shape_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debug1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\debug1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg3.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\timg3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\friend_info_qzone.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\friend_info_qzone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\direct_mapsearch.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\direct_mapsearch.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\offlinearrow_tab2_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\offlinearrow_tab2_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\car.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\car.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gps_point.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\gps_point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\badge_wa.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\badge_wa.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide3.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\guide3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres8.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres8.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gps_point.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\gps_point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point_seleted.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\point_seleted.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres9.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres9.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir7.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir7.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_through.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_through.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_7.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_7.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input_half.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_input_half.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_default.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_default.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\guide1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir8.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir8.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_6.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_6.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\imgres2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\up.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\downarrow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir12.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir12.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_7.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_7.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_man.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_2.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\share1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres4.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres4.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_show_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres1.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\imgres1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_quick_register_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point_seleted.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\point_seleted.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\amap_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_through.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\amap_through.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\direct_mapsearch_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\direct_mapsearch_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir10.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir10.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scrollbar_handle_vertical.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\flow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_drive_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_drive_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point_seleted.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\point_seleted.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\friend_info_qzone.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\friend_info_qzone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\into_icon.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\into_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_bus_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\route_bus_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_input.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_station.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_station.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images5.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images5.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_walk_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_walk_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\groundoverlay.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\groundoverlay.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres1.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\into_icon.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\into_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\whiteborder.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\whiteborder.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\badge_sa.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\badge_sa.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir8.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir8.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navi_map_gps_locked.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\navi_map_gps_locked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cache1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\cache1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\shape_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start_uri.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\start_uri.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\direct_mapsearch_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\direct_mapsearch_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\scrollbar_handle_vertical.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\guide2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_transit_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_plate_global.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_plate_global.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_line.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\shape_line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir10.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir10.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images10.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\images10.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir16.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir16.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_input.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debug1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\debug1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_input.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\search_input.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_selected.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_selected.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir13.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir13.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_bus_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_bus_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir16.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir16.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_off.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_off.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_route_next.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_route_next.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_bus.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_line.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\shape_line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_info_bubble.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\prev_disable.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\prev_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_map_poi.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_map_poi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_on.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_on.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg3.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\timg3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_7.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_7.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres1.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_normal_disable.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bus.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\man.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_drive_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_drive_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir12.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir12.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_show.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_show.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_poisearch.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\icon_poisearch.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_poi_search_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_poi_search_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_right_blue.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\arrow_right_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images10.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images10.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\guide1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\gps_point.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\gps_point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\prev.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\badge_wa.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\badge_wa.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\guide2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_walk_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_walk_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\friend_info_qzone.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\friend_info_qzone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide2.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\guide2.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\location_marker.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\location_marker.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir16.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir16.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_driving.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_driving_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_bus.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_disable.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\next_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_10.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_10.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir14.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir14.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\debug.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\debug.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide3.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\guide3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\message.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_5.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_5.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\guide1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_bus_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_bus_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images6.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images6.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\left_back.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\left_back.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_route_next.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_route_next.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_normal_disable.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\navi_map_gps_locked.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\navi_map_gps_locked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\prev.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_transit_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_transit_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialogue_icon.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dialogue_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_normal_disable.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres8.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres8.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\amap_end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir2.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_bus.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\amap_bus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\flow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\share.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_bottom_bar.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\bg_bottom_bar.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_ride.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\amap_ride.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\badge_sa.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\badge_sa.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\amap_man.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\amap_man.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_driving_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_driving_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\back.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\offlinearrow_tab2_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\offlinearrow_tab2_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_info_bubble.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images6.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images6.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_poisearch.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\icon_poisearch.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\text_search_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_disable.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\next_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir4.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cache.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\cache.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\user.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_8.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_8.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\left_back.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\left_back.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\downarrow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir11.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir11.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\about.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_disable.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\next_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\team.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\team.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg3.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\timg3.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_route_next.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_route_next.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\point.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_info_bubble.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_quick_register_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_quick_register_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialogue_icon.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dialogue_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\mode_walk_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_10.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_10.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir8.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir8.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir_start.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir_start.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_other_highlight.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\marker_other_highlight.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg1.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\timg1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_plate_global.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\search_plate_global.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_nav_drag_down_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_plate_global.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_plate_global.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_line.xml",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\shape_line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\text_search_default.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\text_search_default.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_icon_white.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_icon_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mode_walk_focused.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\mode_walk_focused.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres4.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres4.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_walk_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\route_walk_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\divider.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\divider.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres4.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\imgres4.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_other_highlight.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\marker_other_highlight.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_drive_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_drive_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\imgres1.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\imgres1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\route_walk_select.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\route_walk_select.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir5.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir5.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_8.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_8.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_poi_search_normal.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_poi_search_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\direct_mapsearch_pressed.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\direct_mapsearch_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\into_icon.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\into_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_2.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\poi_marker_2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir16.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir16.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\flow.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\flow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir1.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\dir1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\divider.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\divider.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dir13.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\dir13.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_default_small_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\end.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\end.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\images5.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\images5.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_5.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_5.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\direct_mapsearch.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\direct_mapsearch.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\down.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg1.jpg",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\timg1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_add_accounts_normal.9.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS_AndroidApp_Outside-1.0\\app\\src\\main\\res\\drawable\\btn_add_accounts_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\friend_info_qzone.png",
+        "source": "E:\\AndroidStudioProjects\\ITS_AndriodApp\\ITS-App1.0\\app\\src\\main\\res\\drawable\\friend_info_qzone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search_icon_white.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0513A)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\search_icon_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\build\\intermediates\\res\\merged\\release\\drawable\\poi_marker_3.png",
+        "source": "E:\\AndroidStudioProjects\\ITS-App1.0(0416_release)\\ITS-App1.0\\app\\src\\main\\res\\drawable\\poi_marker_3.png"
+    }
+]

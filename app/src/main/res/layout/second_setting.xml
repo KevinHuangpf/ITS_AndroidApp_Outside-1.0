@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@+id/info_qzone_mail"
+    android:background="@drawable/shape_bg"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10.0dip"
+    android:layout_marginTop="10.0dip"
+    android:layout_marginRight="10.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:id="@+id/qzone"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15.0dip"
+            android:src="@drawable/flow" />
+
+        <TextView
+            android:id="@+id/btnInto1"
+            android:textSize="18.0sp"
+            android:textColor="#ff545454"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="流量统计"
+            android:layout_weight="1.0" />
+
+        <ImageView
+
+            android:layout_width="12.0dip"
+            android:layout_height="12.0dip"
+            android:layout_marginRight="10.0dip"
+            android:src="@drawable/into_icon" />
+
+    </LinearLayout>
+
+    <View
+        android:background="@drawable/shape_line"
+        android:layout_width="fill_parent"
+        android:layout_height="15.0px" />
+
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:id="@+id/mail"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15.0dip"
+            android:src="@drawable/message"/>
+
+        <TextView
+            android:textSize="18.0sp"
+            android:id="@+id/btnInto2"
+            android:textColor="#ff545454"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="消息通知"
+            android:layout_weight="1.0" />
+
+        <ImageView
+            android:layout_width="12.0dip"
+            android:layout_height="12.0dip"
+            android:layout_marginRight="10.0dip"
+            android:src="@drawable/into_icon" />
+
+    </LinearLayout>
+
+    <View
+        android:background="@drawable/shape_line"
+        android:layout_width="fill_parent"
+        android:layout_height="15.0px" />
+
+    <LinearLayout
+        android:id="@+id/chat"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15.0dip"
+            android:src="@drawable/cache" />
+
+        <TextView
+            android:textSize="18.0sp"
+            android:id="@+id/btnInto3"
+            android:textColor="#ff545454"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15.0dip"
+            android:text="清除缓存"
+            android:layout_weight="1.0" />
+
+        <ImageView
+            android:layout_width="12.0dip"
+            android:layout_height="12.0dip"
+            android:layout_marginRight="10.0dip"
+            android:src="@drawable/into_icon" />
+    </LinearLayout>
+    <View
+        android:background="@drawable/shape_line"
+        android:layout_width="fill_parent"
+        android:layout_height="15.0px" />
+
+    <LinearLayout
+        android:id="@+id/chat4"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15.0dip"
+            android:src="@drawable/debug" />
+
+        <TextView
+            android:textSize="18.0sp"
+            android:id="@+id/btnInto4"
+            android:textColor="#ff545454"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15.0dip"
+            android:text="反馈与建议"
+            android:layout_weight="1.0" />
+
+        <ImageView
+            android:layout_width="12.0dip"
+            android:layout_height="12.0dip"
+            android:layout_marginRight="10.0dip"
+            android:src="@drawable/into_icon" />
+    </LinearLayout>
+    <View
+        android:background="@drawable/shape_line"
+        android:layout_width="fill_parent"
+        android:layout_height="15.0px" />
+
+    <LinearLayout
+        android:id="@+id/chat5"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15.0dip"
+            android:src="@drawable/share" />
+
+        <TextView
+            android:textSize="18.0sp"
+            android:textColor="#ff545454"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15.0dip"
+            android:id="@+id/btnInto5"
+            android:text="分享给朋友"
+            android:layout_weight="1.0" />
+
+        <ImageView
+            android:layout_width="12.0dip"
+            android:layout_height="12.0dip"
+            android:layout_marginRight="10.0dip"
+            android:src="@drawable/into_icon" />
+    </LinearLayout>
+    <View
+        android:background="@drawable/shape_line"
+        android:layout_width="fill_parent"
+        android:layout_height="15.0px" />
+
+    <LinearLayout
+        android:id="@+id/chat6"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:clickable="true"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15.0dip"
+            android:src="@drawable/about" />
+
+        <TextView
+            android:textSize="18.0sp"
+            android:id="@+id/btnInto6"
+            android:textColor="#ff545454"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15.0dip"
+            android:text="关于"
+            android:layout_weight="1.0" />
+
+        <ImageView
+            android:layout_width="12.0dip"
+            android:layout_height="12.0dip"
+            android:layout_marginRight="10.0dip"
+            android:src="@drawable/into_icon" />
+    </LinearLayout>
+
+</LinearLayout>
+

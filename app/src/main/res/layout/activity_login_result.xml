@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="org.parking.fragment.MyServiceSecondFragment"
+    android:weightSum="1">
+
+
+    <include
+        android:id="@+id/head_layout"
+        layout="@layout/head_panel_layout" />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="7.0dip"
+        android:background="@drawable/shape_bg"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:minHeight="60.0dip"
+            android:orientation="horizontal"
+            android:padding="10.0dip">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="top"
+                android:paddingTop="4.0dip"
+                android:src="@drawable/user" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0dip"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:text="Kevin"
+                    android:textColor="@android:color/black"
+                    android:textSize="18.0sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4.0dip"
+                    android:gravity="center_vertical"
+                    android:text="类别：私家车车位"
+                    android:textColor="#ff545454"
+                    android:textSize="14.0sp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:text="ID：873541"
+                    android:textColor="#ff545454"
+                    android:textSize="14.0sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.0px"
+            android:background="@drawable/shape_line" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:minHeight="50.0dip"
+            android:orientation="horizontal"
+            android:padding="10.0dip">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5.0dip"
+                android:text="备注"
+                android:textColor="@android:color/black"
+                android:textSize="18.0sp" />
+
+            <EditText
+                android:id="@+id/edit_comment"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_weight="1.0"
+                android:background="@android:color/white"
+                android:focusable="false"
+                android:hint="..."
+                android:maxLength="10"
+                android:maxLines="1"
+                android:textColor="#ff545454"
+                android:textSize="16.0sp" />
+
+
+            <TextView
+                android:id="@+id/change_comment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="应用"
+                android:textColor="@color/button_unselected"
+                android:textSize="18.0sp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="7dp"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="75dp"
+                        android:orientation="horizontal"
+                        >
+                        <Button
+                            android:layout_width="266dp"
+                            android:layout_height="83dp"
+                            android:background="#ffc6c6"
+                            android:text="停车费用"
+                            android:textSize="30dp"
+                            android:layout_margin="5dp"
+                            android:textColor="@color/white"
+                            />
+
+                    </LinearLayout>
+
+
+                    <Button
+                        android:layout_width="match_parent"
+                        android:layout_height="73dp"
+                        android:background="#c286ff"
+                        android:text="历史位置"
+                        android:textSize="30dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginRight="5dp"
+                        android:textColor="@color/black"
+                         />
+
+                </LinearLayout>
+
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#8abdff"
+                    android:text="计时"
+                    android:textSize="30dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:textColor="@color/red"/>
+
+
+            </LinearLayout>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:background="#fffec2"
+                android:text="充值扣费"
+                android:textSize="30dp"
+                android:layout_margin="5dp"
+                android:textColor="@color/blue"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                >
+                <Button
+                    android:layout_width="200dp"
+                    android:layout_height="100dp"
+                    android:background="#d1ffb5"
+                    android:text="停车指南"
+                    android:textSize="30dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:textColor="@color/black"
+                    />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="#ffc6c6"
+                    android:text="违章查询"
+                    android:textSize="30dp"
+                    android:layout_marginRight="5dp"
+                    android:textColor="#5a83ff"
+                    />
+
+
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>
+

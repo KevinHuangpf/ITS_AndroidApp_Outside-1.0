@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <color name="act_background">#efefef</color>
+    <color name="black">#000</color>
+    <color name="blue">#ff1869af</color>
+    <color name="button_selected">#ff419de4</color>
+    <color name="button_unselected">#ff54acea</color>
+    <color name="chat_title_name">#ffffffff</color>
+    <color name="darkgrey"> #999999</color>
+    <color name="deep_gray">#505050</color>
+    <color name="divider_color">#FFCCCCCC</color>
+    <color name="gary">#898989</color>
+    <color name="gray_lite">#c5c5c5</color>
+    <color name="green">#ff4f8c0b</color>
+    <color name="grey">#ff5b5a5a</color>
+    <color name="info_panel_bg">#ffeeeeee</color>
+    <color name="itemlist">#f4f4f4</color>
+    <color name="light_gray">#ffebebeb</color>
+    <color name="phone_bg">#f6f6f6</color>
+    <color name="red"> #FF0000</color>
+    <color name="shadow">#1e000000</color>
+    <color name="title_bg">#ff54acea</color>
+    <color name="traffic_bg">#ffecf0f1</color>
+    <color name="traffic_data">#ff666666</color>
+    <color name="traffic_txt">#ff414141</color>
+    <color name="transparency">#00000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="watermark_hint">#ccffffff</color>
+    <color name="white">#fff</color>
+    <color name="window_bg">#fff0f3f6</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">E 停车 </string>
+    <string name="btn_add_accounts">快速注册</string>
+    <string name="btn_download">下载</string>
+    <string name="btn_more">更多</string>
+    <string name="btn_quick_register">立即登录</string>
+    <string name="btn_share">分享</string>
+    <string name="btn_show">显示</string>
+    <string name="btn_upload">上传</string>
+    <string name="et_account_hint">请输入您的手机号/邮箱/用户名</string>
+    <string name="et_password_hint">请输入密码</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_to_cloud">登录ITS平台</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="teamInfo1">
+        "       The follow-up part of the application is still under development..."
+    </string>
+    <string name="teamInfo2">
+
+        "Address：Xidian University \n"
+        "E-mail ：Kevinhpf@outlook.com"
+    </string>
+    <string name="title_activity_item_info">itemInfoActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_page_forward">pageForwardActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="tv_account">帐号：</string>
+    <string name="tv_file_op_delete">删除</string>
+    <string name="tv_file_op_download">下载</string>
+    <string name="tv_file_op_more">更多</string>
+    <string name="tv_forget_password">忘记密码</string>
+    <string name="tv_menu_logout">退出登录</string>
+    <string name="tv_menu_setting">设置</string>
+    <string name="tv_password">密码：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="accountButtonStyle" parent="@style/buttonBarButtonStyle">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="accountEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+    <style name="accountInputBorder">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:background">@drawable/login_border</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="buttonBarButtonStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="menuItemIcon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginRight">16dp</item>
+    </style>
+    <style name="menuItemTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/deep_gray</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="menuTitle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+</resources>

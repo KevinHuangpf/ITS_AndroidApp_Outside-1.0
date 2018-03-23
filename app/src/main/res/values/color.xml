@@ -1,4 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <color name="divider_color">#FFCCCCCC</color>  
-</resources>
+  <color name="divider_color">#FFCCCCCC</color>
+  <color name="white">#fff</color>
+  <color name="black">#000</color>
+  <color name="green">#ff4f8c0b</color>
+  <color name="blue">#ff1869af</color>
+  <color name="transparency">#00000000</color>
+  <color name="shadow">#1e000000</color>
+  <color name="grey">#ff5b5a5a</color>
+  <color name="deep_gray">#505050</color>
+  <color name="light_gray">#ffebebeb</color>
+  <color name="gray_lite">#c5c5c5</color>
+  <color name="phone_bg">#f6f6f6</color>
+  <color name="transparent">#00000000</color>
+  <color name="itemlist">#f4f4f4</color>
+  <color name="watermark_hint">#ccffffff</color>
+  <color name="act_background">#efefef</color>
+  <color name="window_bg">#fff0f3f6</color>
+
+  <color name="darkgrey"> #999999</color>
+  <color name="red"> #FF0000</color>
+
+  <color name="gary">#898989</color>
+
+  <color name="title_bg">#ff54acea</color>
+
+  <color name="button_unselected">#ff54acea</color>
+  <color name="button_selected">#ff419de4</color>
+
+  <color name="info_panel_bg">#ffeeeeee</color>
+
+  <color name="chat_title_name">#ffffffff</color>
+  <color name="traffic_bg">#ffecf0f1</color>
+  <color name="traffic_txt">#ff414141</color>
+  <color name="traffic_data">#ff666666</color></resources>
